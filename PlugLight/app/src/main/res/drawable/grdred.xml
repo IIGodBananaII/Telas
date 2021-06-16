@@ -12,7 +12,8 @@
                 android:type="linear"
                 >
             </gradient>
-
+            <corners
+                android:radius="5dp"/>
         </shape>
 
     </item>
